@@ -1,0 +1,10 @@
+x-center{
+    visibility: hidden;
+}
+
+x-center:defined{
+    visibility: visible;
+}
+p{
+    border-bottom: ;
+}
